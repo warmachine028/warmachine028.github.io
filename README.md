@@ -21,6 +21,8 @@
 [![kmexample]](https://github.com/warmachine028/KMeansExample)
 [![victor mono]](https://github.com/warmachine028/victor-mono)
 
+### My Trophies
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=warmachine028&margin-w=10&margin-h=10&theme=onestar&column=3&row=2)
 
 <!-- Links -->
 
