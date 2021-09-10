@@ -3,6 +3,7 @@
 ### I'm a Student, Gamer and Programmer!
 
 - 🎓 I'm currently in **Second** year pursuing my Bachelors in Computer Science & Engineering.
+- 👩‍💻 Python   |   C   |  Regex  |   HTML  |   CSS   |  C++
 - 😁 I'm currently working on a fine [GUI Application]
 - 🌱 I'm currently learning C programming language
 - 😋 I'm passionate about **UI**. Currently learning GUI app deigning in **tkinter**.
@@ -24,6 +25,7 @@
 ### My Trophies
 ![Github Trophies](https://github-profile-trophy.vercel.app/?username=warmachine028&margin-w=10&margin-h=10&theme=onestar&column=3&row=2)
 
+<div align=center> <img src="https://komarev.com/ghpvc/?username=warmachine028"> </div>
 <!-- Links -->
 
 [kryptonite]: https://warmachine028.github.io
