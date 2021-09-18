@@ -3,6 +3,7 @@
 ### I'm a Student, Gamer and Programmer!
 
 - 🎓 I'm currently in **Second** year pursuing my Bachelors in Computer Science & Engineering.
+- 👩‍💻 Python   |   C   |  Regex  |   HTML  |   CSS   |  C++
 - 😁 I'm currently working on a fine [GUI Application]
 - 🌱 I'm currently learning C programming language
 - 😋 I'm passionate about **UI**. Currently learning GUI app deigning in **tkinter**.
@@ -19,14 +20,15 @@
 [![music player]](https://github.com/warmachine028/MusicPlayer)
 [![codeui]](https://github.com/warmachine028/codeui)
 [![kmexample]](https://github.com/warmachine028/KMeansExample)
-[![victor mono]](https://github.com/warmachine028/victor-mono)
+[![attendance analyzer]](https://github.com/warmachine028/Attendance-Analyzer)
 
 ### My Trophies
 ![Github Trophies](https://github-profile-trophy.vercel.app/?username=warmachine028&margin-w=10&margin-h=10&theme=onestar&column=3&row=2)
 
+<div align=center> <img src="https://komarev.com/ghpvc/?username=warmachine028"> </div>
 <!-- Links -->
 
-[kryptonite]: https://warmachine028.github.io
+[kryptonite]: https://github.com/warmachine028
 [gui application]: https://warmachine028.github.io/Better-Calculator/
 
 <!-- Repos -->
@@ -36,4 +38,4 @@
 [music player]: https://github-readme-stats.vercel.app/api/pin/?username=warmachine028&repo=MusicPlayer&bg_color=70,d0ae57,000000&title_color=f5f9ff&text_color=f5f9ff&hide_border=true&icon_color=f5f9ff
 [codeui]: https://github-readme-stats.vercel.app/api/pin/?username=warmachine028&repo=codeui&bg_color=70,B20000,000000&title_color=f5f9ff&text_color=f5f9ff&hide_border=true&icon_color=f5f9ff
 [kmexample]: https://github-readme-stats.vercel.app/api/pin/?username=warmachine028&repo=KMeansExample&bg_color=30,e96443,904e95&title_color=f5f9ff&text_color=f5f9ff&hide_border=true&icon_color=f5f9ff
-[victor mono]: https://github-readme-stats.vercel.app/api/pin/?username=warmachine028&repo=victor-mono&bg_color=70,b8b9ba,000000&title_color=f5f9ff&text_color=f5f9ff&hide_border=true&icon_color=f5f9ff
+[attendance analyzer]: https://github-readme-stats.vercel.app/api/pin/?username=warmachine028&repo=attendance-analyzer&bg_color=70,b8b9ba,000000&title_color=f5f9ff&text_color=f5f9ff&hide_border=true&icon_color=f5f9ff
