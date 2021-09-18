@@ -2,7 +2,7 @@
 
 ## Hi there I'm Pritam - aka [Kryptonite] 🚀
 
-### I'm a Student, Gamer and Programmer!
+### I'm a Student, Programmer and an Open Source Contributor!
 
 - 🎓 I'm currently in **Second** year pursuing my Bachelors in Computer Science & Engineering.
 - 👩‍💻 Python   |   C   |  Regex  |   HTML  |   CSS   |  C++
